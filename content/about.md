@@ -5,6 +5,8 @@ draft: false
 ---
 Full stack software developer based in Toronto, Canada. 
 
-Currently: Wealthsimple.
+Currently: Engineering at Wealthsimple.
 
 Previously: Tulip Retail, CaseWare, Patient Zero, Crawl Media, Queensland Rail, CSC for BHP.
+
+Contact: `keaton.185 at gmail.com`
