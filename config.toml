@@ -1,0 +1,43 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Keaton Neville'
+theme = "ezhil"
+
+paginate = 5
+
+enableEmoji = true
+googleAnalytics = "UA-104897741-1"
+
+[blackfriday]
+    smartypants = false
+    skipHTML = true
+
+[params]
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02"
+    footerCopyright = '&copy; Keaton Neville'
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/keaton185"
+[[params.social]]
+  icon = "linkedin"
+  name = "My LinkedIn"
+  url = "https://linkedin.com/in/keatonneville/"
+[menu]
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 10
+
+[[menu.main]]
+    name = "Resume"
+    url = "https://drive.google.com/file/d/1nZlIpyFAbJmeX4EDXS93EDNLnolnp1O5/view"
+    weight = 10
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
